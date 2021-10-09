@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>PHOTO/ALL.png</file>
+        <file>PHOTO/DMZ.png</file>
+        <file>PHOTO/HCL.png</file>
+        <file>PHOTO/HJY.png</file>
+        <file>PHOTO/LBC.png</file>
+        <file>PHOTO/LTE.png</file>
+        <file>PHOTO/RYJ.png</file>
+        <file>PHOTO/WLJ.png</file>
+        <file>PHOTO/YXM.png</file>
+        <file>PHOTO/TV2.png</file>
+        <file>PHOTO/MAIN.png</file>
+        <file>PHOTO/PHONE.png</file>
+        <file>PHOTO/BOWL.png</file>
+        <file>PHOTO/bo.png</file>
+        <file>PHOTO/1.png</file>
+        <file>PHOTO/2.png</file>
+    </qresource>
+</RCC>

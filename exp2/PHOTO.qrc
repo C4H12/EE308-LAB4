@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/EXP2">
+        <file>插画/阿莉莉.png</file>
+        <file>插画/都美阻.png</file>
+        <file>插画/花痴李.png</file>
+        <file>插画/滑稽爷.png</file>
+        <file>插画/老头儿.png</file>
+        <file>插画/萝卜陈.png</file>
+        <file>插画/如意姐.png</file>
+        <file>插画/往里急.png</file>
+        <file>插画/阳小妹.png</file>
+    </qresource>
+</RCC>
